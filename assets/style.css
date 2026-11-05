@@ -1,0 +1,14 @@
+body {
+    background-color: lemonchiffon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background: black;
+    color: lemonchiffon;
+    text-decoration: none;
+}
