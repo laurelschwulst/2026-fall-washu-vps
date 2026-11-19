@@ -42,10 +42,8 @@ document.querySelector("#flower").addEventListener("click", function () {
     console.log("clicked on flower");
     const colors = 
     [  "lemonchiffon",
-        "skyblue",
-        "snow",
-        "wheat",
-        "green"
+        "lightcyan",
+        "lavendarblush"
     ];
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
     document.body.style.backgroundColor = randomColor;
