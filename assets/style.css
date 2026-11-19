@@ -12,3 +12,7 @@ a:hover {
     color: lemonchiffon;
     text-decoration: none;
 }
+
+#flower {
+    cursor: pointer;
+}
